@@ -15,6 +15,8 @@ O fluxo planejado é:
 5. Cálculo dos indicadores territoriais.
 6. Disponibilização dos resultados em dashboards e aplicação web.
 
+<img width="1601" height="439" alt="image" src="https://github.com/user-attachments/assets/90790187-4e09-465d-bac2-17b8397f6df5" />
+
 ## 3. Serviços Google Cloud previstos
 
 ### Cloud Storage
