@@ -75,4 +75,5 @@ A ferramenta terá caráter de apoio à decisão e não substituirá a avaliaç�
 
 Global Solution — FIAP — 2026.2
 
-*Integrantes, turma e RMs serão adicionados após a definição da equipe.*
+TURMA - 2TSCPV
+RM - 562481 - ISABELLA SIMÃO MATTAR
