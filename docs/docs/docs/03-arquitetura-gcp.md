@@ -130,10 +130,4 @@ A implementação será dividida em etapas:
 - Aplicar agregação territorial e controles adicionais de privacidade, especialmente para dados relacionados ao HIV.
 - Sinalizar ausência, incompletude e defasagem de dados, evitando interpretar lacunas como ausência de risco.
 
-## 7. Status
 
-**Arquitetura proposta — implementação incremental.**
-
-O BigQuery será o primeiro serviço GCP utilizado na estruturação analítica da POC. Os demais serviços serão incorporados conforme a evolução técnica, a necessidade operacional e a disponibilidade orçamentária.
-
-A arquitetura será atualizada durante o desenvolvimento, de acordo com os testes e as decisões de implementação.
