@@ -6,7 +6,7 @@ Plataforma de inteligência territorial para apoiar a prevenção da dengue no B
 
 ## Sobre o projeto
 
-O Saúde Antes da Emergência é uma proposta de plataforma web de inteligência territorial em saúde pública, com foco inicial na prevenção da dengue no Brasil.
+O Saúde Antes da Emergência é uma proposta de plataforma web de inteligência territorial em saúde pública, com foco inicial na prevenção da doenças no Brasil.
 
 A solução pretende integrar dados públicos epidemiológicos, climáticos, demográficos e de infraestrutura de saúde para apoiar gestores públicos e agentes comunitários na identificação de territórios que necessitam de maior atenção preventiva.
 
