@@ -13,13 +13,16 @@ Esta pasta reúne evidências visuais da implementação do ambiente analítico 
 
 <img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/7bb48df9-01f4-4de1-b754-5c04a8757307" />
 
+
+##Bloco 1 — Estrutura das tabelas
+
+
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/f6d8f2be-25c4-4b00-b123-2298880d8cf5" />
 
 <img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/ef4b5508-0be5-47ef-a655-984fffc2eb3e" />
 
 <img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/bd58a89c-ad77-4d94-80c2-ce1aa7f7fea7" />
 
-Bloco 1 — Estrutura das tabelas
 <img width="1916" height="903" alt="image" src="https://github.com/user-attachments/assets/cec74c8e-9e5c-49d9-8b65-23f9bc14e2ea" />
 
 <img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/f3df9ac6-091b-4a0b-adbf-f366849f4371" />
