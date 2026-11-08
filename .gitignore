@@ -218,3 +218,36 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Dados brutos e arquivos de processamento
+data/
+*.dbc
+*.dbf
+
+# Arquivos de dados locais
+*.parquet
+*.feather
+
+# Credenciais e variáveis de ambiente
+.env
+.env.*
+!.env.example
+*service-account*.json
+*credentials*.json
+
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+*.zip
+
+# Google Colab e Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
