@@ -14,7 +14,7 @@ Esta pasta reúne evidências visuais da implementação do ambiente analítico 
 <img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/7bb48df9-01f4-4de1-b754-5c04a8757307" />
 
 
-##Bloco 1 — Estrutura das tabelas
+Bloco 1 — Estrutura das tabelas
 
 
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/f6d8f2be-25c4-4b00-b123-2298880d8cf5" />
@@ -36,6 +36,41 @@ Esta pasta reúne evidências visuais da implementação do ambiente analítico 
 <img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/88d28ad7-cf02-4be2-a15c-486041224bbf" />
 
 <img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/e6c156f9-c0c8-4a8f-89cc-60d5fbcbd076" />
+
+
+Bloco 2 — Auditorias e validações
+
+
+
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/d9ca6d47-31c2-4503-8dd3-32a672c22f61" />
+
+<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/d8ca546d-253b-4405-a71b-34665295b441" />
+
+
+Bloco 3 — Auditorias climáticas
+
+
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/10b085ae-aacc-49bb-a491-323a0bbb4e9d" />
+
+
+<img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/d7e4a613-5f16-4a01-b085-be842763552a" />
+
+
+Bloco 4 — Auditorias CNES e integração
+
+
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/ec9c92a1-677f-4fe7-b22d-4fe0c3db8d44" />
+
+
+<img width="1912" height="916" alt="image" src="https://github.com/user-attachments/assets/2737dc19-1433-4660-aa25-b5d7220a0df0" />
+
+
+<img width="1913" height="912" alt="image" src="https://github.com/user-attachments/assets/71456998-9191-4430-bdce-09405069cc00" />
+
+
+
+
+
 
 
 
