@@ -26,18 +26,6 @@ As capturas deverão:
 - Preservar legibilidade dos nomes de tabelas e resultados.
 - Ser acompanhadas de descrição e data de captura.
 
-## 4. Organização sugerida
+<img width="1898" height="893" alt="image" src="https://github.com/user-attachments/assets/75f40eb7-a38c-48fb-a931-a8dc3db57424" />
 
-```text
-bigquery/
-├── README.md
-├── projeto-gcp.png
-├── dataset-bigquery.png
-├── tabelas-analiticas.png
-├── painel-integrado.png
-└── auditorias.png
-```
 
-Os nomes são sugestões. Os arquivos deverão ser adicionados somente após a captura real das telas.
-
-**Status:** Aguardando inclusão das evidências.
