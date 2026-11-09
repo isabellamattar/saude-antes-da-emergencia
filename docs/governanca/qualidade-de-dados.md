@@ -110,25 +110,4 @@ A tabela `auditoria_codigos_nao_associados` registra códigos que não puderam s
 
 A tabela `cobertura_indicadores` registra a cobertura territorial dos indicadores epidemiológicos.
 
-## 9. Indicadores de qualidade e monitoramento
 
-A evolução do projeto deverá manter indicadores de monitoramento, como:
-
-| Indicador | Finalidade |
-|---|---|
-| Percentual de registros com código municipal válido | Avaliar associação territorial |
-| Quantidade de códigos não associados | Identificar problemas de integração |
-| Percentual de valores ausentes | Avaliar completude |
-| Quantidade de duplicidades | Avaliar unicidade |
-| Cobertura municipal por indicador | Avaliar representatividade |
-| Período de atualização | Avaliar atualidade |
-
-## 10. Responsabilidade e atualização
-
-As regras de qualidade deverão ser revisadas quando novas fontes forem incorporadas ou quando houver alterações metodológicas.
-
-Toda transformação relevante deverá possuir descrição, origem e critério de validação.
-
-**Projeto:** Saúde Antes da Emergência  
-**Área:** Governança e qualidade de dados  
-**Status:** Diretrizes documentadas; validação contínua
