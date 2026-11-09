@@ -142,25 +142,7 @@ Os principais grupos de campos são:
 
 O esquema físico deve ser consultado diretamente no BigQuery para manter este documento alinhado à versão efetivamente implantada.
 
-## 9. Regras gerais de qualidade
 
-1. Códigos territoriais devem manter seu formato e tamanho padronizados.
-2. Campos de ano devem representar o período real da fonte.
-3. Valores ausentes não devem ser convertidos automaticamente em zero.
-4. Taxas devem utilizar denominadores documentados.
-5. Indicadores normalizados devem preservar a doença e o ano de referência.
-6. Campos derivados devem possuir regra de cálculo documentada.
-7. Tabelas integradas devem respeitar sua granularidade territorial e temporal.
-
-## 10. Atualização do documento
-
-Este dicionário deverá ser atualizado sempre que:
-
-- Novas fontes forem incorporadas.
-- Novas tabelas forem criadas.
-- Campos forem adicionados ou removidos.
-- Regras de transformação forem alteradas.
-- A metodologia dos indicadores for revisada.
 
 **Projeto:** Saúde Antes da Emergência  
 **Ambiente analítico:** Google BigQuery  
