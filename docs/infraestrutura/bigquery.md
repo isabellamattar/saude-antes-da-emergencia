@@ -71,14 +71,5 @@ Essa modalidade possui limites próprios de armazenamento, consultas e funcional
 
 Não se deve presumir que todos os serviços adicionais do Google Cloud sejam gratuitos.
 
-## 8. Boas práticas
-
-- Utilizar nomes padronizados para tabelas e campos.
-- Documentar consultas relevantes.
-- Evitar duplicação de dados.
-- Validar os resultados após cada integração.
-- Preservar dados ausentes quando não houver evidência para substituição.
-- Controlar o acesso às informações.
-- Não armazenar credenciais no repositório GitHub.
 
 
