@@ -205,15 +205,6 @@ O repositório público deverá conter apenas código, documentação e evidênc
 | Cloud Build | Planejado |
 | Aplicação web | Planejada |
 
-## 11. Próximas etapas
-
-1. Finalizar a validação dos dados do CNES.
-2. Consolidar as tabelas analíticas.
-3. Definir e documentar a metodologia do IPTS.
-4. Desenvolver os painéis de visualização.
-5. Avaliar a implantação do armazenamento no Cloud Storage.
-6. Desenvolver a aplicação web.
-7. Implementar os processos de implantação e monitoramento.
 
 ---
 
