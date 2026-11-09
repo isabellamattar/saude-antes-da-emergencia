@@ -77,48 +77,14 @@ Informações relacionadas ao HIV exigem cuidados reforçados para evitar exposi
 
 **Mitigação:** utilizar exclusivamente agregações adequadas, avaliar riscos de identificação em grupos pequenos e restringir a divulgação de resultados sensíveis.
 
-## 6. Uso responsável do IPTS
 
-O Índice de Prioridade Territorial em Saúde (IPTS) deverá ser utilizado como instrumento de apoio à decisão.
-
-O índice não deverá:
-
-- Substituir avaliação de profissionais de saúde.
-- Ser apresentado como probabilidade individual de adoecimento.
-- Ser tratado como previsão confirmada de surtos.
-- Classificar municípios sem dados suficientes como territórios de baixo risco.
-- Misturar doenças diferentes sem justificativa metodológica.
-- Produzir conclusões causais sem evidências.
-
-A metodologia deverá considerar cobertura, qualidade, comparabilidade temporal e justificativa epidemiológica das dimensões.
-
-## 7. Transparência
-
-Os resultados deverão apresentar, sempre que aplicável:
-
-- Fonte dos dados.
-- Período de referência.
-- Critérios de seleção.
-- Método de cálculo.
-- Cobertura territorial.
-- Limitações conhecidas.
-- Data de atualização.
-
-## 8. Segurança e compartilhamento
-
-O repositório público deverá conter apenas documentação, códigos e evidências autorizadas.
-
-Arquivos com registros individuais, credenciais, tokens e informações restritas não deverão ser publicados.
-
-O acesso aos dados deverá seguir o princípio do menor privilégio.
-
-## 9. Responsabilidade no uso dos resultados
+## 6. Responsabilidade no uso dos resultados
 
 Os indicadores possuem finalidade de apoio ao planejamento e à prevenção em saúde pública.
 
 Decisões de gestão deverão considerar avaliações técnicas adicionais, contexto local e participação dos profissionais responsáveis.
 
-## 10. Referências
+## 7. Referências
 
 - Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
 - Ministério da Saúde: https://www.gov.br/saude/
