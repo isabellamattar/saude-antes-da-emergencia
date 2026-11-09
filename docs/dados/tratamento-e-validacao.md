@@ -203,15 +203,6 @@ Essa pontuação:
 - Não permite comparação direta entre doenças diferentes.
 - Não deve ser somada automaticamente em um índice composto.
 
-## 11. Limitações e pendências
-
-- Validar integralmente os códigos epidemiológicos não associados.
-- Confirmar a semântica dos filtros do SINAN com os dicionários oficiais.
-- Investigar divergências de códigos e cobertura do CNES.
-- Confirmar a referência temporal exata do arquivo CNES.
-- Avaliar a representatividade das estações meteorológicas.
-- Definir critérios metodológicos do IPTS.
-- Documentar a origem e a versão de cada arquivo utilizado.
 
 **Projeto:** Saúde Antes da Emergência  
 **Ambiente analítico:** Google BigQuery  
