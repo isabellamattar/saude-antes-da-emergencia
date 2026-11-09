@@ -90,8 +90,3 @@ Os registros não associados devem permanecer identificados até que exista vali
 - Os dados climáticos possuem cobertura desigual entre municípios.
 - Estabelecimentos cadastrados não representam necessariamente capacidade efetiva de atendimento.
 
-A relação de tabelas deverá ser atualizada sempre que novos objetos forem criados no BigQuery.
-
-**Projeto:** Saúde Antes da Emergência  
-**Ambiente:** Google BigQuery  
-**Status:** Em desenvolvimento
