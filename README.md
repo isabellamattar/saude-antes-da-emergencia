@@ -81,54 +81,7 @@ A metodologia de cálculo e os pesos do índice ainda estão em validação.
 
 As taxas epidemiológicas atualmente calculadas representam notificações selecionadas por 100 mil habitantes, utilizando a população do Censo 2022 como denominador de referência. Não devem ser interpretadas automaticamente como incidência ou probabilidade de adoecimento.
 
-## Estrutura do repositório
 
-```text
-saude-antes-da-emergencia/
-│
-├── README.md
-│
-├── docs/
-│   ├── arquitetura/
-│   ├── infraestrutura/
-│   ├── dados/
-│   ├── governanca/
-│   └── evidencias/
-│
-├── notebooks/
-│
-├── src/
-│
-└── .gitignore
-```
-
-## Status do desenvolvimento
-
-**Em desenvolvimento.**
-
-Etapas já realizadas:
-
-- [x] Levantamento e processamento inicial de dados epidemiológicos.
-- [x] Preparação de dados meteorológicos do INMET.
-- [x] Integração de códigos municipais e população do IBGE.
-- [x] Criação do projeto e conjunto de dados no Google BigQuery.
-- [x] Criação de tabelas analíticas epidemiológicas.
-- [x] Construção do painel municipal integrado.
-- [x] Auditorias iniciais de cobertura e qualidade dos dados.
-- [ ] Finalização da validação e integração dos dados do CNES.
-- [ ] Definição metodológica do IPTS.
-- [ ] Construção dos painéis de visualização.
-- [ ] Desenvolvimento da aplicação web.
-- [ ] Documentação técnica e governança de dados.
-
-## Cuidados metodológicos e éticos
-
-- Preservar valores ausentes, sem tratá-los automaticamente como zero.
-- Considerar diferenças de cobertura entre fontes e municípios.
-- Documentar os critérios de seleção e tratamento dos dados.
-- Evitar interpretações causais sem evidências.
-- Não utilizar dados territoriais para estigmatizar comunidades.
-- Respeitar a LGPD e os princípios de minimização e proteção de dados.
 
 ## Finalidade
 
