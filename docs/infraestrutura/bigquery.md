@@ -81,10 +81,4 @@ Não se deve presumir que todos os serviços adicionais do Google Cloud sejam gr
 - Controlar o acesso às informações.
 - Não armazenar credenciais no repositório GitHub.
 
-## 9. Situação atual
 
-O dataset principal e suas estruturas analíticas foram criados no BigQuery. As tabelas epidemiológicas, climáticas, municipais e de infraestrutura estão em diferentes estágios de integração e validação.
-
-**Projeto:** Saúde Antes da Emergência  
-**Serviço:** Google BigQuery  
-**Status:** Em desenvolvimento
