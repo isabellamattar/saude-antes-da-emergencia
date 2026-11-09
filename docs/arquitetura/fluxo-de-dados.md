@@ -100,22 +100,4 @@ Valores nulos são preservados quando não existe informação suficiente para e
 
 Códigos municipais não identificados não são associados por aproximação sem validação documental.
 
-## 7. Rastreabilidade
 
-O fluxo deve permitir identificar:
-
-- Fonte original.
-- Arquivo de origem.
-- Período de referência.
-- Regras de transformação.
-- Tabela de destino.
-- Critérios de validação.
-
-## 8. Estado atual
-
-A coleta, o processamento inicial, a integração municipal e as auditorias analíticas já foram desenvolvidos em diferentes etapas.
-
-A automatização completa do pipeline e a implantação de serviços gerenciados para execução recorrente ainda estão previstas.
-
-**Projeto:** Saúde Antes da Emergência  
-**Status:** Em desenvolvimento
