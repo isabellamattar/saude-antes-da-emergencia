@@ -76,12 +76,4 @@ As próximas etapas da infraestrutura deverão considerar:
 - Identificação de alterações nas tabelas.
 - Controle de versões dos códigos de processamento.
 
-## 8. Estado atual
 
-As diretrizes de segurança estão documentadas como requisitos de governança da solução.
-
-A configuração detalhada de papéis, permissões e mecanismos adicionais de segurança deverá ser verificada e implementada conforme a evolução da infraestrutura.
-
-**Projeto:** Saúde Antes da Emergência  
-**Área:** Segurança e governança de dados  
-**Status:** Diretrizes documentadas; implementação em evolução
