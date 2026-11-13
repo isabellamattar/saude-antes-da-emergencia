@@ -1,0 +1,49 @@
+name: CD - Deploy no Cloud Run
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'api/**'
+      - '.github/workflows/deploy.yml'
+
+jobs:
+  deploy:
+    if: vars.ENABLE_CLOUD_DEPLOY == 'true'
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Autenticar no Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ vars.GCP_WIF_PROVIDER }}
+          service_account: ${{ vars.GCP_SERVICE_ACCOUNT }}
+
+      - name: Configurar Google Cloud CLI
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Configurar Docker
+        run: gcloud auth configure-docker southamerica-east1-docker.pkg.dev --quiet
+
+      - name: Construir e enviar imagem
+        working-directory: api
+        run: |
+          docker build -t southamerica-east1-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/saude-api/saude-api:${{ github.sha }} .
+          docker push southamerica-east1-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/saude-api/saude-api:${{ github.sha }}
+
+      - name: Implantar no Cloud Run
+        run: >
+          gcloud run deploy saude-api
+          --image southamerica-east1-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/saude-api/saude-api:${{ github.sha }}
+          --region southamerica-east1
+          --platform managed
+          --service-account saude-api-runtime@vicky-290611.iam.gserviceaccount.com
+          --allow-unauthenticated
