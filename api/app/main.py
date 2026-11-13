@@ -19,7 +19,7 @@ def get_bigquery_client():
 def inicio():
     return {
         "projeto": "Saúde Antes da Emergência",
-        "mensagem": "API funcionando!"
+        "mensagem": "API atualizada automaticamente pelo GitHub Actions!"
     }
 
 
