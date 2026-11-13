@@ -28,19 +28,17 @@ jobs:
         with:
           workload_identity_provider: projects/847963892157/locations/global/workloadIdentityPools/github-pool/providers/github-provider
           service_account: github-actions-deploy@vicky-290611.iam.gserviceaccount.com
+          token_format: access_token
 
       - name: Configurar Google Cloud CLI
         uses: google-github-actions/setup-gcloud@v2
 
-      - name: Ativar credenciais no gcloud
-        run: |
-          gcloud auth login \
-            --cred-file="${{ steps.auth.outputs.credentials_file_path }}" \
-            --brief
-          gcloud auth list
-
-      - name: Configurar Docker
-        run: gcloud auth configure-docker southamerica-east1-docker.pkg.dev --quiet
+      - name: Autenticar Docker no Artifact Registry
+        uses: docker/login-action@v3
+        with:
+          registry: southamerica-east1-docker.pkg.dev
+          username: oauth2accesstoken
+          password: ${{ steps.auth.outputs.access_token }}
 
       - name: Construir e enviar imagem
         working-directory: api
