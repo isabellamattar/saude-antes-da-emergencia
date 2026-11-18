@@ -3,6 +3,8 @@
 
 ## Sobre o projeto
 
+https://saude-antes-da-emergencia-fiap.netlify.app
+
 O **Saúde Antes da Emergência** é uma plataforma de inteligência territorial em saúde pública que busca apoiar gestores públicos e agentes comunitários na identificação de municípios que necessitam de maior atenção preventiva.
 
 A proposta integra dados epidemiológicos, climáticos, populacionais e de infraestrutura de saúde para transformar informações públicas em indicadores que apoiem o planejamento de ações preventivas e de vigilância em saúde.
